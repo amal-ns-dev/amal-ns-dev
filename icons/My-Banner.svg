@@ -1,0 +1,43 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" rx="12" fill="#0B0B0F"/>
+
+  <text x="60" y="65" font-family="Arial, sans-serif"
+        font-size="24" fill="#E2E8F0">Hi all 👋,</text>
+
+  <text x="60" y="120" font-family="Arial, sans-serif"
+        font-size="48" font-weight="bold" fill="#FFFFFF">
+    I am Amal NS
+  </text>
+
+  <text x="60" y="170" font-family="Arial, sans-serif"
+        font-size="36" font-weight="bold" fill="#C4B5FD">
+    Backend Developer
+  </text>
+
+  <line x1="60" y1="205" x2="490" y2="205"
+        stroke="#8B5CF6" stroke-width="2"/>
+
+  <text x="520" y="213" font-family="monospace"
+        font-size="24" font-weight="bold" fill="#A78BFA">
+    &lt;/&gt;
+  </text>
+
+  <line x1="570" y1="205" x2="1140" y2="205"
+        stroke="#8B5CF6" stroke-width="2"/>
+
+  <g font-family="Arial, sans-serif" font-size="22"
+     font-weight="bold" fill="#E2E8F0">
+    <text x="60" y="255">JavaScript</text>
+    <text x="185" y="255" fill="#A78BFA">·</text>
+    <text x="210" y="255">TypeScript</text>
+    <text x="350" y="255" fill="#A78BFA">·</text>
+    <text x="375" y="255">Node.js</text>
+    <text x="485" y="255" fill="#A78BFA">·</text>
+    <text x="510" y="255">Express.js</text>
+    <text x="650" y="255" fill="#A78BFA">·</text>
+    <text x="675" y="255">SQL</text>
+    <text x="735" y="255" fill="#A78BFA">·</text>
+    <text x="760" y="255">MongoDB</text>
+  </g>
+</svg>
