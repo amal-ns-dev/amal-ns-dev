@@ -63,12 +63,4 @@ I'm particularly interested in the principles and practices that make software r
 
 ---
 
-<h4>🤝 Let's Connect</h4>
-
-I'm always open to connecting with fellow developers, learning from others, discussing software engineering, and exploring interesting technical ideas.
-
-LinkedIn: https://www.linkedin.com/in/amal-ns-dev/
-
---- 
-
 Always learning. Always building. Always improving.
