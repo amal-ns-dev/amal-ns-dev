@@ -60,7 +60,3 @@ I believe good software engineering goes beyond making things work.
 It's about understanding problems, choosing appropriate solutions, writing maintainable code, and building systems that are easy to understand, extend, and improve.
 
 I'm particularly interested in the principles and practices that make software reliable, scalable, and maintainable over time.
-
----
-
-Always learning. Always building. Always improving.
