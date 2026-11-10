@@ -43,6 +43,7 @@
     <img src="./icons/Github-Dark.svg" height="36" width="36" />
     <img src="./icons/Github-Copilot-Dark.svg" height="36" width="36"/>
     <img src="./icons/Docker.svg" height="36" width="36" />
+    <img src="./icons/Linux-Dark.svg" height="36" width="36" />
 </p>
 <h5>Frontend & Frameworks</h5>
 <p align="left">
