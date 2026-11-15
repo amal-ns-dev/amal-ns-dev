@@ -20,7 +20,6 @@
   <img src="./icons/JavaScript.svg" height="36" width="36" />
   <img src="./icons/TypeScript.svg" height="36" width="36" />
   <img src="./icons/Python-Dark.svg" height="36" width="36" />
-  <img src="./icons/GoLang.svg" height="36" width="36" />
 </p>
 <h5>Backend & Frameworks</h5>
 <p align="left">
