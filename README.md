@@ -16,25 +16,25 @@
 <h4>🛠️ Technical Skills </h4>
 <h5>Programming Languages</h5>
 <p align="left">
+  <img src="./icons/PHP-Dark.svg" height="36" width="36" />
   <img src="./icons/JavaScript.svg" height="36" width="36" />
   <img src="./icons/TypeScript.svg" height="36" width="36" />
-  <img src="./icons/PHP-Dark.svg" height="36" width="36" />
   <img src="./icons/Python-Dark.svg" height="36" width="36" />
   <img src="./icons/GoLang.svg" height="36" width="36" />
 </p>
 <h5>Backend & Frameworks</h5>
 <p align="left">
-  <img src="./icons/NodeJS-Dark.svg" height="36" width="36" />
-  <img src="./icons/ExpressJS-Dark.svg" height="36" width="36" />
   <img src="./icons/Laravel-Dark.svg" height="36" width="36" />
   <img src="./icons/Codeigniter.svg" height="36" width="36" />
+  <img src="./icons/NodeJS-Dark.svg" height="36" width="36" />
+  <img src="./icons/ExpressJS-Dark.svg" height="36" width="36" />
   <img src="./icons/Django.svg" height="36" width="36" />
 </p>
 <h5>Databases & Caching</h5>
 <p align="left">
-    <img src="./icons/MongoDB.svg" height="36" width="36" />
     <img src="./icons/MySQL-Dark.svg" height="36" width="36" />
     <img src="./icons/PostgreSQL-Dark.svg" height="36" width="36" />
+    <img src="./icons/MongoDB.svg" height="36" width="36" />
     <img src="./icons/Redis-Dark.svg" height="36" width="36" />
 </p>
 <h5>Tools & Technologies</h5>
